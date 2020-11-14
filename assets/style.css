@@ -1,0 +1,20 @@
+
+a {
+  padding: 10px 20px;
+}
+
+#social-in {
+  color: #3B5998;
+}
+
+#social-in:hover {
+  color: #d34836;
+}
+
+#social-tw {
+  color: #4099FF;
+}
+
+#social-tw:hover {
+  color: #4099FF;
+}

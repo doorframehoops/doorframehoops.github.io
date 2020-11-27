@@ -59,6 +59,12 @@ a {
 	letter-spacing: 0.5px;
 }
 
+.page-topic-bold {
+	color: #ffffff;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+}
+
 #circle{
  	display:block;
 	border-radius:50%;

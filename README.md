@@ -1,9 +1,13 @@
 Website : doorframehoops.github.io
 
-Website Owner : Aneesh Namburi
+Website Owner : Aneesh Namburi - https://github.com/doorframehoops
 
+Website Developed by : Avinash Varma - https://github.com/avinash1242 - https://github.com/AvinashVCherukuri
 
 Logo icon - 
+
+Home Page Bacground Video - https://www.youtube.com/watch?v=Y4KUtMEPfY0
+	Support the Artist - https://ko-fi.com/theartistjohn
 	
 
 Social media icons  -
